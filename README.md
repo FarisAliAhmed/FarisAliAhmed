@@ -12,7 +12,7 @@
   - Front-end: HTML, CSS & Javascript
   - Back-End: PHP
   - Database: phpMyAdmin (MySQL)
-- <b>[Everblue Ocean Express Vessel SQL Project)](https://github.com/FarisAliAhmed/Everblue-Ocean-Express-Vessel-SQL-Project)</b>
+- <b>[Everblue Ocean Express Vessel SQL Project](https://github.com/FarisAliAhmed/Everblue-Ocean-Express-Vessel-SQL-Project)</b>
   - Designed and implemented a database system for managing vessel schedules and container bookings for a shipping company.
   - Developed the database using Oracle APEX, ensuring efficient data storage and retrieval.
   - Included features for real-time updates on vessel schedules and container availability.
