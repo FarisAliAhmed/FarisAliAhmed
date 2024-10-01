@@ -12,5 +12,16 @@
   - Front-end: HTML, CSS & Javascript
   - Back-End: PHP
   - Database: phpMyAdmin (MySQL)
+- <b>[Everblue Ocean Express Vessel SQL Project)](https://github.com/FarisAliAhmed/Everblue-Ocean-Express-Vessel-SQL-Project)</b>
+  - Designed and implemented a database system for managing vessel schedules and container bookings for a shipping company.
+  - Created an Entity-Relationship Diagram (ERD) using StarUML to visualize database structure and relationships.
+  - Developed the database using Oracle APEX, ensuring efficient data storage and retrieval.
+  - Integrated a user-friendly interface for efficient data entry and retrieval.
+  - Included features for real-time updates on vessel schedules and container availability.
+  - Utilized SQL for robust data management and querying capabilities, creating specific queries to:
+  - Retrieve vessel schedules based on date and destination.
+  - Check container availability for bookings.
+  - Generate reports on shipping activities and performance metrics.
+  - Ensured data integrity and security throughout the system.
 
 
