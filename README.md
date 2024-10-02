@@ -19,5 +19,12 @@
   - Utilized SQL for robust data management and querying capabilities, creating specific queries for business.
   - Generate reports on shipping activities and performance metrics.
   - Ensured data integrity and security throughout the system.
+- <b>[Flight Punctuality Data-Warehouse Project](https://github.com/FarisAliAhmed/Flight-Punctuality-Data-Warehouse-Project)</b>
+  - Developed a data warehouse for analyzing flight punctuality using a star schema model designed in StarUML.
+  - Implemented the star schema in Oracle APEX, facilitating efficient data storage and management.
+  - Consolidated multiple Excel worksheets into a single dataset for streamlined data import.
+  - Imported Excel CSV files into the data warehouse to populate the database.
+  - Created visualizations in Tableau to analyze flight cancellations and punctuality trends.
+  - Demonstrated expertise in data integration, database design, and data visualization.
 
 
