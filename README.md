@@ -7,7 +7,7 @@
   - A sentiment analysis model with a current accuracy of 65%. Has potential to increase in accuracy with longer training time, without using pre-trained deep learning models, such as VADER or BERT.
   - Automatic pre-processing of datasets that follow a specific rule set.
   - Contains an easy to navigate graphical user interface to import datasets, which outputs visualisations to be analysed.
-- <b>[Flight Punctuality Data-Warehouse Project](https://github.com/FarisAliAhmed/Flight-Punctuality-Data-Warehouse-Project)</b>
+- <b>[Flight Punctuality Data Warehouse Project](https://github.com/FarisAliAhmed/Flight-Punctuality-Data-Warehouse-Project)</b>
   - Developed a data warehouse for analyzing flight punctuality using a star schema model designed in StarUML.
   - Implemented the star schema in Oracle APEX, facilitating efficient data storage and management.
   - Consolidated multiple Excel worksheets into a single dataset for streamlined data import.
