@@ -1,4 +1,4 @@
-<h1>Hi, I'm Faris, an aspiring data scientist & software developer! <br/><a href="https://www.linkedin.com/in/faris-ahmed-4341551a2/">💼LinkedIn</a> <h1/>
+<h1>Hi, I'm Faris, an aspiring data scientist & software developer! <br/><a href="https://www.linkedin.com/in/farisaliahmed/">💼LinkedIn</a> <h1/>
 <h3>I hold a Master of Science in Data Science with distinction honours and have created various data science models for predictive analytics and decision-making, as well as experience in software devlopment.<h3> 
 
 <h2>👨‍💻 Projects:</h2>
